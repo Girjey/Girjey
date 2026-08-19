@@ -1,1 +1,1 @@
-[![Codewars](https://codewars.com/Girjey/badges/large)](https://codewars.com/Girjey)
+[![Codewars](https://www.codewars.com/users/Girjey/badges/micro)](https://www.codewars.com/users/Girjey)
