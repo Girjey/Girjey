@@ -1,1 +1,1 @@
-[![Codewars Stats](https://vercel.app)](https://codewars.com)
+[![Codewars](https://codewars.com)](https://codewars.com)
